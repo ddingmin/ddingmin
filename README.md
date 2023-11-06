@@ -27,9 +27,9 @@
 
   🏆 `2022. 09` Korea Aerospace UNIV. [***KAUPC 2022 3rd Award***](https://kaupc2022.netlify.app/#apply)
   
-  🚘 `2023. 07 ~ 2023. 08` Hyundai Motors. [***Softeer Bootcamp 2nd***](https://www.softeerbootcamp.com/)
+  🚙 `2023. 07 ~ 2023. 08` Hyundai Motors. [***Softeer Bootcamp 2nd***](https://www.softeerbootcamp.com/)
 
-  🚘 `2023. 11 ~ ` Depromeet. [***Depromeet 14th***](https://www.depromeet.com/)
+  🎨 `2023. 11 ~ ` Depromeet. [***Depromeet 14th***](https://www.depromeet.com/)
 
 <div align="center">
 
