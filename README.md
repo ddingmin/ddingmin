@@ -1,29 +1,44 @@
-### <p align="center"> Hi 👋
+## About Me
+
+  ### Skill
+  
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  
+  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+  
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&color=00758F)
+  
+  ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  
+  ### Contact
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ddingmin.dev@gmail.com)
+  [![Tistory](https://img.shields.io/badge/Tistory-FF5A4A?style=for-the-badge&logo=tistory&logoColor=white)](https://ddingmin00.tistory.com/)
+  
+  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=ddingmin00)](https://ddingmin00.tistory.com/)
+
+  
+
+
+  ### Experience
+  🏫 `2018. 03 ~ ` Korea Aerospace UNIV. ***Software and Computer Engineering***
+
+  🏆 `2022. 09` Korea Aerospace UNIV. [***KAUPC 2022 3rd Award***](https://kaupc2022.netlify.app/#apply)
+  
+  🚘 `2023. 07 ~ 2023. 08` Hyundai Motors. [***Softeer Bootcamp 2nd***](https://www.softeerbootcamp.com/)
+
+  🚘 `2023. 11 ~ ` Depromeet. [***Depromeet 14th***](https://www.depromeet.com/)
+
 <div align="center">
-  
+
+  ## 👾 Program Solve
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ddingmin)](https://solved.ac/ddingmin/)
-    
-    
-  [![ddingmin's github stats](https://github-readme-stats.vercel.app/api?username=ddingmin)](https://github.com/anuraghazra/github-readme-stats)
+  [![mazandi profile](http://mazandi.herokuapp.com/api?handle=ddingmin&theme=dark)](https://solved.ac/ddingmin/)
+
+  <!-- Solved Streak ***[1234](https://solved.ac/profile/ddingmin)*** days -->
   
+  <!-- Total Solved ***[1234](https://solved.ac/profile/ddingmin)*** problems -->
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fddingmin%2Fhit-counter&count_bg=%23268C67&title_bg=%23555555&icon=&icon_color=%23963C3C&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-  <a href="https://ddingmin00.tistory.com/"><img src="https://img.shields.io/badge/blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://ddingmin00.tistory.com/"/></a>
-  
-  
-  <!--
-  **ddingmin/ddingmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-  
-  
-  Here are some ideas to get you started:
-  
-  - 🔭 I’m currently working on ...
-  - 🌱 I’m currently learning ...
-  - 👯 I’m looking to collaborate on ...
-  - 🤔 I’m looking for help with ...
-  - 💬 Ask me about ...
-  - 📫 How to reach me: ...
-  - 😄 Pronouns: ...
-  - ⚡ Fun fact: ...
-  -->
 </div>
