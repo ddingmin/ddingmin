@@ -1,5 +1,5 @@
   ### Experience
-  🏫 `2018. 03 ~ ` Korea Aerospace UNIV. ***Software and Computer Engineering***
+  🏫 `2018. 03 ~ 2024. 02` Korea Aerospace UNIV. ***Software and Computer Engineering***
 
   🏆 `2022. 09` Korea Aerospace UNIV. [***KAUPC 2022 3rd Award***](https://kaupc2022.netlify.app/#apply)
   
